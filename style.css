@@ -1,0 +1,11 @@
+body {
+    background-color: rebeccapurple;
+    background-image: radial-gradient(rgb(255, 255, 255), purple);
+}
+
+.roundbutton {
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
